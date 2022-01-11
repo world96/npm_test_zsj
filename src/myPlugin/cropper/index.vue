@@ -3,7 +3,7 @@
 </template>
 <script>
 export default {
-  name: 'zsj-cropper'
+  name: 'ZsjCropper'
 }
 </script>
 <style scoped>

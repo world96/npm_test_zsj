@@ -3,7 +3,7 @@
 </template>
 <script>
 export default {
-  name: 'zsj-pagination'
+  name: 'ZsjPagination'
 }
 </script>
 <style scoped>
